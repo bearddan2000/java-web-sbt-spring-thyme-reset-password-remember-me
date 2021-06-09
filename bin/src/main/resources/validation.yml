@@ -1,0 +1,4 @@
+NotEmpty: "This field is required."
+Duplicate:
+  userForm:
+    username: "Someone already has that username."
